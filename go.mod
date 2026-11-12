@@ -5,10 +5,10 @@
 
 module github.com/nrkno/terraform-registry
 
-go 1.19
+go 1.24
 
 require (
-	github.com/go-chi/chi/v5 v5.0.10
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/google/go-github/v43 v43.0.0
 	github.com/hashicorp/go-version v1.6.0
 	github.com/matryer/is v1.4.1
